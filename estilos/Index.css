@@ -1,0 +1,48 @@
+body{
+    background-color: powderblue;
+}
+#ImgTitulo{
+    text-align: center;
+    width: 99%;
+    height: 5%;
+    margin: 5px;
+    padding: 2px;
+}
+#TituloT{
+    text-align: center;
+    color: darkblue;
+    font-size: 3em;
+}
+.BarraNav{
+    clear: both;
+    display: inline-block;
+    width: 15%;
+    background-color: paleturquoise;
+    font-size: 1.22em;
+    border: double;
+    border-color: midnightblue;
+    padding: 3.8px;
+    text-align: center;
+}
+
+.TituloNav{
+    font-weight: bold;
+    font-family: cursive;
+    color: darkblue;
+    text-decoration: none;
+}
+#marco{
+    width: 99%;
+    padding: 8px;
+    height: 660px;
+    background-color: b;
+    border-style: dashed;
+    border-color: black;
+}
+#pie{
+    text-align: center;
+    font-size: 18px;
+    border-style: dashed;
+    border-color: black;
+    color: darkblue;
+}

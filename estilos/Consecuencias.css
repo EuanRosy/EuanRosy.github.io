@@ -1,0 +1,38 @@
+h1{
+    display: inline-block;
+    font-size: 5.5em;
+    text-align: center;
+    color: #04536b;
+    text-align:center;
+     margin: 5px;
+    font-style: italic;
+    text-decoration: underline;
+     width: 100%;
+}
+h2{
+    display: inline-block;
+    font-size: 3em;
+    text-align:left;
+    color: cadetblue;
+}
+p{
+    font-size: 120%;
+    font-style: italic;
+    text-align: justify;font-size: 1.5em;
+}
+.Imagen2{
+    position: relative;
+    float:right;
+    padding: 8px;
+    margin: 8px;
+    border: double;
+}
+.parrafo{
+    clear: both;
+    font-size: 130%;
+    font-style: italic;
+    text-align: justify;
+    color: #01212b;
+    font-weight: 700;
+    font-size: 1.5em;
+}

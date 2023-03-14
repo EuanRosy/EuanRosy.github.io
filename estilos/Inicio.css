@@ -1,0 +1,28 @@
+h1{
+    display: inline-block;
+    font-size: 5.5em;
+    text-align: center;
+    color: #04536b;
+    text-align:center;
+    font-style: italic;
+    text-decoration: underline;
+    width: 56%;
+    text-shadow:#43b6d9 6px 6px 8px;
+    margin: 0.2em;
+    
+}
+#Imagen1{
+    float: right;
+    padding: 4px;
+    margin: 5px;
+    border: double;
+    display: inline-block;
+    width: 38%;
+}
+p{
+    font-size: 170%;
+    font-style: italic;
+    font-family: system-ui;
+    text-align: justify;
+    font-size: 1.5em;
+}
